@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joel Garcia Jr</h1>
-<p align="center">Experienced Senior with more than 15 years in Information Technology. Two international experiences (USA / HONG KONG). IT Specialist with a demonstrated history of working in the information technology and services industry. Skilled in NodeJS, TypeScript/JavaScript, NEST.JS, Angular, React, MongoDB, Ionic, Kafka, RabbitMQ, AWS, Azure, Azure Devops, Docker, Kubernetes, TDD, ,SQL, NoSQL databases (MongoDB, ELK, Neo4j) Rest Api, Swagger, Soap, graphQL, Scrum/Agile, and many others. Strong engineering professional with ease of communication in English and Portuguese.</p>
+<p align="justify">Experienced Senior with more than 15 years in Information Technology. Two international experiences (USA / HONG KONG). IT Specialist with a demonstrated history of working in the information technology and services industry. Skilled in NodeJS, TypeScript/JavaScript, NEST.JS, Angular, React, MongoDB, Ionic, Kafka, RabbitMQ, AWS, Azure, Azure Devops, Docker, Kubernetes, TDD, ,SQL, NoSQL databases (MongoDB, ELK, Neo4j) Rest Api, Swagger, Soap, graphQL, Scrum/Agile, and many others. Strong engineering professional with ease of communication in English and Portuguese.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelgarciajr84&label=Profile%20views&color=0e75b6&style=flat" alt="joelgarciajr84" /> </p>
 
@@ -22,9 +22,6 @@
 <a href="https://www.youtube.com/c/breakpointcanal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="breakpointcanal" height="30" width="40" /></a>
 </p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joelgarciajr84&show_icons=true&locale=en&layout=compact" alt="joelgarciajr84" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joelgarciajr84&show_icons=true&locale=en" alt="joelgarciajr84" /></p>
 
