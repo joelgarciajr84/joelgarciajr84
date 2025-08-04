@@ -1,27 +1,20 @@
-<h1 align="center">Hi 👋, I'm Joel Garcia Jr</h1>
-<p align="justify">Experienced Senior with more than 15 years in Information Technology. Two international experiences (USA / HONG KONG). IT Specialist with a demonstrated history of working in the information technology and services industry. Skilled in NodeJS, TypeScript/JavaScript, NEST.JS, Angular, React, MongoDB, Ionic, Kafka, RabbitMQ, AWS, Azure, Azure Devops, Docker, Kubernetes, TDD, ,SQL, NoSQL databases (MongoDB, ELK, Neo4j) Rest Api, Swagger, Soap, graphQL, Scrum/Agile, and many others. Strong engineering professional with ease of communication in English and Portuguese.</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joelgarciajr84&label=Profile%20views&color=0e75b6&style=flat" alt="joelgarciajr84" /> </p>
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/joelgarciajr84?tab=repositories](https://github.com/joelgarciajr84?tab=repositories)
-
-- 📝 I regularly write articles on [https://joelgarciajr84.medium.com/](https://joelgarciajr84.medium.com/)
-
-- 📫 How to reach me **joel.garciajr84@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/joelgarciajr84/](https://www.linkedin.com/in/joelgarciajr84/)
+<div align="center"> <h1 style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"> Hi 👋, I'm Joel Garcia Jr </h1> </div> <p align="center"> <strong>Tech Lead | Senior Software Engineer | Backend Specialist</strong> </p>
+<p align="justify"> With over <strong>15 years</strong> of professional experience in software engineering and technical leadership, I've built high-performance backend systems, cloud-native applications, and data-driven solutions. I've also had international professional experiences in the <strong>USA</strong> and <strong>Hong Kong</strong>, shaping a global vision of technology and teamwork. </p> <p align="justify"> My core competencies include <strong>Node.js, TypeScript, Go, Python, Kafka, RabbitMQ, Kubernetes, Docker, MongoDB, AWS, Azure, TDD, SQL & NoSQL databases, REST, GraphQL, Spark, and Agile methodologies.</strong> I'm passionate about clean architecture, elegant code, and continuous learning. </p>
+<div align="center">
 
 
+📫 joel.garciajr84@gmail.com • LinkedIn • Medium
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/joelgarciajr84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joelgarciajr84" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joelgarciajr84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joelgarciajr84" height="30" width="40" /></a>
-<a href="https://medium.com/@joelgarciajr84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@joelgarciajr84" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/breakpointcanal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="breakpointcanal" height="30" width="40" /></a>
-</p>
+</div>
+🚀 Quick links
+🔭 My projects: GitHub Repositories
 
+📝 My articles: Medium Blog
 
+📄 My professional background: LinkedIn Profile
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joelgarciajr84&" alt="joelgarciajr84" /></p>
+🤝 Connect with me
+<p align="left"> <a href="https://twitter.com/joelgarciajr84" target="_blank"> <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="https://linkedin.com/in/joelgarciajr84" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://medium.com/@joelgarciajr84" target="_blank"> <img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"/> </a> <a href="https://www.youtube.com/@BreakPoint42" target="_blank"> <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/> </a> </p>
+<div align="center">
+
+</div>
